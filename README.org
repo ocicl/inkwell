@@ -1,0 +1,10 @@
+* inkwell
+
+A client API for the Nintendo Splatoon Splatnet
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/inkwell.git   |
+| commit  | 6364f0e  |
+| systems | inkwell |
+|---------+-------------------------------------------|
+

@@ -4,6 +4,6 @@ A client API for the Nintendo Splatoon Splatnet
 
 |---------+---------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/inkwell.git |
-| commit  | 0000000                                     |
+| commit  | ffd086b                                     |
 | systems | inkwell                                     |
 |---------+---------------------------------------------|
